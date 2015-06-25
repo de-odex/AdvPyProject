@@ -30,8 +30,8 @@ RED = (255, 0, 0)
 BLUE = (0, 0, 255)
  
 # Screen dimensions
-SCREEN_WIDTH = 1365
-SCREEN_HEIGHT = 700
+SCREEN_WIDTH = 1366
+SCREEN_HEIGHT = 768
  
  
 class Player(pygame.sprite.Sprite):
